@@ -1,6 +1,6 @@
 This is the README file of Calendar project developed by Hayk Minasyan.
 
-#CONTENTS
+## CONTENTS
 '''
 * AUTHOR
 * DESCRIPTION
