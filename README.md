@@ -1,6 +1,6 @@
 This is the README file of Calendar project developed by Hayk Minasyan.
 
-#CONTENTS
+# CONTENTS
 
 * AUTHOR
 * DESCRIPTION
@@ -22,8 +22,8 @@ This is the README file of Calendar project developed by Hayk Minasyan.
 
 # 3. COMMANDS
 
-	-After download this program you can call this commands in Linux terminal.
-	-'make': If you want compile.
+	- After download this program you can call this commands in Linux terminal.
+	- 'make': If you want compile.
 	-'make clean' If you want clean bin directory.
 	-'make run' If you want to use the program.
 	
